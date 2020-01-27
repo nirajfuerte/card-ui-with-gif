@@ -1,0 +1,75 @@
+   
+        <!-- Start Services Details Area -->
+        <section class="services-details-area ptb-110" style="padding-top:10px;padding-bottom:10px">
+            <div class="container">
+                <div class="services-details-overview">
+                    <div class="services-details-desc">
+                        <h2><b></b></h2>
+                            <h5>INR 10000*12</h5>
+                                
+
+                        <p>Website - Portfolio website <br>
+                        Digital - Regular<br>
+                        Video - 1 video<br>
+                        LTS assured - 100 INR/month<br>
+                        Product
+photography -
+10 Products/month<br>
+Email marketing - 10,000 Email/month <br>
+Whatsapp
+marketing -
+1 city-10,000 view /month<br>
+Festival - Regular<br>
+SEO - Regular<br>
+Buy Sell - Regular<br>
+YouTube reach - 50,000 reach/year</p>
+                            <div class="btn-box">
+                                        <a href="contact_fuertedevelopers.php" class="btn btn-primary">Book Now</a>
+                            </div>
+                        </div>
+
+                       <div class="services-details-image wow fadeInUp">
+                        <img src="assets/img/services-details/Web.gif" alt="fuertedevelopers.com/assets/img/services-details/Web.gif" style="height:400px">
+                    </div>
+                </div>
+
+                <div class="services-details-overview">
+                    <div class="services-details-image wow fadeInUp">
+                        <img src="assets/img/services-details/Maintenance.gif" alt="fuertedevelopers.com/assets/img/services-details/Maintenance.gif">
+                    </div>
+
+                    <div class="services-details-desc">
+                        <h2><b></b></h2>
+                           <h5>INR 25000*12 </h5>
+                                
+
+                        <p>Website - Portfolio Website With GIF    <br>
+                        Digital - Silver<br>
+                        Video - 2 video<br>
+                        LTS assured - 500 INR/month<br>
+                        Product
+photography -
+25 Products/month<br>
+Email marketing - 25,000 Email/month <br>
+Whatsapp
+marketing -
+5 city-25,000 view /month<br>
+Festival - Silver<br>
+SEO - Silver<br>
+Buy Sell - Silver<br>
+YouTube reach - 2,50,000 reach/year</p>
+
+                            <div class="btn-box">
+                                        <a href="contact_fuertedevelopers.php" class="btn btn-primary">Book Now</a>
+                                </div>
+
+                                 <p class="accordion-content"></p>
+                                </li>
+                                
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
